@@ -1,3 +1,7 @@
+# Resource allocation of edge network
+
+
+
 [![Open in GitHub Codespaces](
   https://img.shields.io/badge/Open%20in%20GitHub%20Codespaces-333?logo=github)](
   https://codespaces.new/dwave-examples/knapsack?quickstart=1)
